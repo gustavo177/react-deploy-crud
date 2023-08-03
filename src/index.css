@@ -1,0 +1,7 @@
+/* body{
+    background: #202020;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
